@@ -1,4 +1,4 @@
-// "Create a form in C# that interacts //with different desktop services, letting you open and close them."
+// "Create a form in C# that interacts with different desktop services, letting you open and close them."
 
 using System;
 using System.Collections.Generic;
@@ -97,4 +97,4 @@ namespace ServiceControlForm
             // Update the status label with the current status of the service
             label1.Text = "Status: " + service.Status.ToString();
 
-            // Enable or disable 
+            // Enable or disable the service
