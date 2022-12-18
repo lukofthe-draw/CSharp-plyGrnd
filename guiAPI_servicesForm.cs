@@ -1,4 +1,4 @@
-// gui api for the cSharp_servicesForm.cs using chatgpt
+// gui api for the cSharp_servicesForm.cs 
 
 using System;
 using System.Collections.Generic;
