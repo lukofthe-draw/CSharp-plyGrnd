@@ -74,4 +74,4 @@ namespace ServiceControlForm
             if (service.Status == ServiceControllerStatus.Running)
             {
                 startButton.Enabled = false;
-               
+            } 
